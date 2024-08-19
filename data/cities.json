@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,54 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "3bf4",
-      "cityName": "Cairo",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-08-19T13:54:37.286Z",
-      "notes": "test",
-      "position": {
-        "lat": "29.80251790576445",
-        "lng": "31.333007812500004"
-      }
-    },
-    {
-      "id": "9814",
-      "cityName": "Alexandria",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-08-19T13:57:49.554Z",
-      "notes": "best",
-      "position": {
-        "lat": "31.194007509998823",
-        "lng": "29.926757812500004"
-      }
-    },
-    {
-      "id": "09b7",
-      "cityName": "Suez",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-08-19T14:01:14.564Z",
-      "notes": "",
-      "position": {
-        "lat": "29.945415337104453",
-        "lng": "32.49755859375001"
-      }
-    },
-    {
-      "id": "099d",
-      "cityName": "Jerusalem",
-      "country": "Israel",
-      "emoji": "🇮🇱",
-      "date": "2024-08-19T14:04:29.430Z",
-      "notes": "",
-      "position": {
-        "lat": "31.784216884487385",
-        "lng": "35.20568847656251"
-      }
     }
   ]
 }
