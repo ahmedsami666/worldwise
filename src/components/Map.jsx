@@ -8,7 +8,7 @@ import Button from './Button'
 import { useURLPosition } from '../hooks/useURLPosition'
 
 const Map = () => {
-    const [mapPosition, setMapPosition] = useState([40, 0])
+    const [mapPosition, setMapPosition] = useState([30, 30])
     const {cities} = useCities()
     const { isLoading: isLoadingPosition, position: geolocationPosition, getPosition } = useGeolocation()
     const [mapLat, mapLng] = useURLPosition()
