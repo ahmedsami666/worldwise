@@ -25,18 +25,6 @@
       "id": "98443197"
     },
     {
-      "id": "5ed8",
-      "cityName": "Alexandria",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-08-19T14:32:49.002Z",
-      "notes": "",
-      "position": {
-        "lat": "31.19048322901983",
-        "lng": "29.90341186523438"
-      }
-    },
-    {
       "id": "bc1e",
       "cityName": "Cairo",
       "country": "Egypt",
@@ -49,15 +37,39 @@
       }
     },
     {
-      "id": "64d3",
-      "cityName": "Damietta",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-08-20T10:36:59.042Z",
+      "id": "e5e0",
+      "cityName": "Sehzadeler",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-08-20T11:42:42.928Z",
       "notes": "",
       "position": {
-        "lat": "31.405223877581342",
-        "lng": "31.843872070312504"
+        "lat": "38.66835610151506",
+        "lng": "27.520751953125004"
+      }
+    },
+    {
+      "id": "a28c",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-20T11:43:33.321Z",
+      "notes": "",
+      "position": {
+        "lat": "31.18930843952816",
+        "lng": "29.89791870117188"
+      }
+    },
+    {
+      "id": "d612",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-20T11:44:18.976Z",
+      "notes": "",
+      "position": {
+        "lat": "31.212801458338845",
+        "lng": "30.0091552734375"
       }
     }
   ]

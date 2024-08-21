@@ -123,7 +123,7 @@ const CitiesProvider = ({ children }) => {
             getCity,
             createCity,
             deleteCity,
-            error
+            //error
         }}>
             {children}
         </CitiesContext.Provider>
